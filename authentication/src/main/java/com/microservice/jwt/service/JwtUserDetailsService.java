@@ -1,8 +1,8 @@
-package com.food.recipe.social.api.service;
+package com.microservice.jwt.service;
 
-import com.food.recipe.social.api.repository.UserCredentialRepository;
-import com.food.recipe.social.api.entity.UserCredential;
-import com.food.recipe.social.api.model.UserDetailsImpl;
+import com.microservice.jwt.repository.UserCredentialRepository;
+import com.microservice.jwt.entity.UserCredential;
+import com.microservice.jwt.model.UserDetailsImpl;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

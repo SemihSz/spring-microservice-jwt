@@ -1,4 +1,4 @@
-package com.food.recipe.social.api.entity;
+package com.microservice.jwt.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

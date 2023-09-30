@@ -1,6 +1,6 @@
-package com.food.recipe.social.api.config;
+package com.microservice.jwt.config;
 
-import com.food.recipe.social.api.entity.UserCredential;
+import com.microservice.jwt.entity.UserCredential;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 

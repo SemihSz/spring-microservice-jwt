@@ -1,6 +1,6 @@
-package com.food.recipe.social.api.repository;
+package com.microservice.jwt.repository;
 
-import com.food.recipe.social.api.entity.UserCredential;
+import com.microservice.jwt.entity.UserCredential;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

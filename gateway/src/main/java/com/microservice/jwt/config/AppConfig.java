@@ -1,4 +1,4 @@
-package com.food.recipe.social.api.config;
+package com.microservice.jwt.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

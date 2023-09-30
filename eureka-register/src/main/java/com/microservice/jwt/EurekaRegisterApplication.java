@@ -1,4 +1,4 @@
-package com.food.recipe.social.api;
+package com.microservice.jwt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,8 +1,8 @@
-package com.food.recipe.social.api.config;
+package com.microservice.jwt.config;
 
 
-import com.food.recipe.social.api.repository.UserCredentialRepository;
-import com.food.recipe.social.api.entity.UserCredential;
+import com.microservice.jwt.repository.UserCredentialRepository;
+import com.microservice.jwt.entity.UserCredential;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

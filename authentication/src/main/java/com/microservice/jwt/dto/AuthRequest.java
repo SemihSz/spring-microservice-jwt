@@ -1,4 +1,4 @@
-package com.food.recipe.social.api.dto;
+package com.microservice.jwt.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

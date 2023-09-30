@@ -1,8 +1,8 @@
-package com.food.recipe.social.api.config;
+package com.microservice.jwt.config;
 
-import com.food.recipe.social.api.service.JwtAuthenticationEntryPoint;
-import com.food.recipe.social.api.service.JwtRequestFilter;
-import com.food.recipe.social.api.service.JwtUserDetailsService;
+import com.microservice.jwt.service.JwtAuthenticationEntryPoint;
+import com.microservice.jwt.service.JwtRequestFilter;
+import com.microservice.jwt.service.JwtUserDetailsService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,6 +1,6 @@
-package com.food.recipe.social.api.util;
+package com.microservice.jwt.util;
 
-import com.food.recipe.social.api.model.UserDetailsImpl;
+import com.microservice.jwt.model.UserDetailsImpl;
 import io.jsonwebtoken.*;
 import io.jsonwebtoken.io.Decoders;
 import io.jsonwebtoken.security.Keys;

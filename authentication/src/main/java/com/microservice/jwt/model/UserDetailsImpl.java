@@ -1,7 +1,7 @@
-package com.food.recipe.social.api.model;
+package com.microservice.jwt.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.food.recipe.social.api.entity.UserCredential;
+import com.microservice.jwt.entity.UserCredential;
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.security.core.GrantedAuthority;

@@ -1,4 +1,4 @@
-package com.food.recipe.social.api.model;
+package com.microservice.jwt.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

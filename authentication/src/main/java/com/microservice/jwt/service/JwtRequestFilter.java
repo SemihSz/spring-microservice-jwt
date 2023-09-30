@@ -1,6 +1,6 @@
-package com.food.recipe.social.api.service;
+package com.microservice.jwt.service;
 
-import com.food.recipe.social.api.util.JwtTokenUtil;
+import com.microservice.jwt.util.JwtTokenUtil;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

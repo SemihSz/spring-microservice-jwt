@@ -1,4 +1,4 @@
-package com.food.recipe.social.api.service;
+package com.microservice.jwt.service;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.servlet.ServletException;

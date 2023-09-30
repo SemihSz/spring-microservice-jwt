@@ -1,4 +1,4 @@
-package com.food.recipe.social.api.controller;
+package com.microservice.jwt.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;

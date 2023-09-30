@@ -1,4 +1,4 @@
-package com.food.recipe.social.api.filter;
+package com.microservice.jwt.filter;
 
 import org.springframework.http.server.reactive.ServerHttpRequest;
 import org.springframework.stereotype.Component;

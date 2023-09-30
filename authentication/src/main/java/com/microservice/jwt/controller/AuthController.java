@@ -1,10 +1,10 @@
-package com.food.recipe.social.api.controller;
+package com.microservice.jwt.controller;
 
-import com.food.recipe.social.api.dto.AuthRequest;
-import com.food.recipe.social.api.model.JwtResponse;
-import com.food.recipe.social.api.entity.UserCredential;
-import com.food.recipe.social.api.model.AuthLoginRequest;
-import com.food.recipe.social.api.service.AuthService;
+import com.microservice.jwt.dto.AuthRequest;
+import com.microservice.jwt.model.JwtResponse;
+import com.microservice.jwt.entity.UserCredential;
+import com.microservice.jwt.model.AuthLoginRequest;
+import com.microservice.jwt.service.AuthService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

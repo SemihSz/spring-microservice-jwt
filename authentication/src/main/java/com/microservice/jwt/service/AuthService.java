@@ -1,9 +1,9 @@
-package com.food.recipe.social.api.service;
+package com.microservice.jwt.service;
 
-import com.food.recipe.social.api.model.JwtResponse;
-import com.food.recipe.social.api.repository.UserCredentialRepository;
-import com.food.recipe.social.api.entity.UserCredential;
-import com.food.recipe.social.api.model.AuthLoginRequest;
+import com.microservice.jwt.model.JwtResponse;
+import com.microservice.jwt.repository.UserCredentialRepository;
+import com.microservice.jwt.entity.UserCredential;
+import com.microservice.jwt.model.AuthLoginRequest;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
